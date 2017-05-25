@@ -1,2 +1,2 @@
-# unity-number-wizard
+# uni-number-wizard
 Guess the number app in unity
