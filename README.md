@@ -1,2 +1,2 @@
 # uni-number-wizard
-Guess the number app in unity
+'Guess the number' in unity console
